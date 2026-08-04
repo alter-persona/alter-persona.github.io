@@ -1,0 +1,11 @@
+{
+  "skills": [
+    {
+      "name": "alter",
+      "description": "Build and run a digital persona of the user, their alter ego. Interviews them through chat and voice memos, learns from their documents, writing samples, and AI chat exports, then chats, answers questions, and drafts messages and emails in their voice. Improves continuously from corrections and new uploads. Local-first; companion services at github.com/alter-persona/alter.",
+      "files": [
+        "SKILL.md"
+      ]
+    }
+  ]
+}
